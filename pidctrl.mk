@@ -1,0 +1,6 @@
+PIDCTRL = $(LIBENV)/pidctrl
+
+PIDCTRLSRC = \
+	$(PIDCTRL)/pidctrl.c 
+
+PIDCTRLINC = $(PIDCTRL) 
